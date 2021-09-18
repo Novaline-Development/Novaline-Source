@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31129.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Novaline", "Novaline.csproj", "{D8A726B2-F865-4F58-81EA-3C5EA70A0E73}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D8A726B2-F865-4F58-81EA-3C5EA70A0E73}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8A726B2-F865-4F58-81EA-3C5EA70A0E73}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8A726B2-F865-4F58-81EA-3C5EA70A0E73}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8A726B2-F865-4F58-81EA-3C5EA70A0E73}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {444A3485-0EFB-4FF3-950C-23DAF3F6B58E}
+	EndGlobalSection
+EndGlobal
